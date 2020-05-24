@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -6.469
+TNS   : -2212.570
+
+Type  : Slow 1200mV 85C Model Setup 'MoveDetector:inst9|KeyboardInterface:inst2|Debouncer:inst40|inst1'
+Slack : -0.801
+TNS   : -1.051
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : 0.344
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MoveDetector:inst9|KeyboardInterface:inst2|Debouncer:inst40|inst1'
+Slack : 0.394
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -666.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MoveDetector:inst9|KeyboardInterface:inst2|Debouncer:inst40|inst1'
+Slack : -1.000
+TNS   : -19.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -5.695
+TNS   : -1919.620
+
+Type  : Slow 1200mV 0C Model Setup 'MoveDetector:inst9|KeyboardInterface:inst2|Debouncer:inst40|inst1'
+Slack : -0.640
+TNS   : -0.640
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : 0.299
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MoveDetector:inst9|KeyboardInterface:inst2|Debouncer:inst40|inst1'
+Slack : 0.356
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -666.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MoveDetector:inst9|KeyboardInterface:inst2|Debouncer:inst40|inst1'
+Slack : -1.000
+TNS   : -19.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -3.292
+TNS   : -995.797
+
+Type  : Fast 1200mV 0C Model Setup 'MoveDetector:inst9|KeyboardInterface:inst2|Debouncer:inst40|inst1'
+Slack : -0.001
+TNS   : -0.001
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MoveDetector:inst9|KeyboardInterface:inst2|Debouncer:inst40|inst1'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -706.032
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MoveDetector:inst9|KeyboardInterface:inst2|Debouncer:inst40|inst1'
+Slack : -1.000
+TNS   : -19.000
+
+------------------------------------------------------------
